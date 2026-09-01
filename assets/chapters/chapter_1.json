@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "title": "Mengenal Sampah Organik",
+  "sections": [
+    {
+      "heading": "Apa itu sampah organik?",
+      "body": "Sampah organik adalah sampah yang berasal dari makhluk hidup dan bisa **terurai secara alami** oleh mikroorganisme. Contohnya sisa makanan, kulit buah, sayuran busuk, daun kering, dan sisa potongan rumput."
+    },
+    {
+      "heading": "Contoh sehari-hari",
+      "body": "- Sisa nasi dan lauk\n- Kulit pisang, kulit jeruk\n- Ampas kopi dan teh\n- Daun dan ranting kering\n- Cangkang telur"
+    },
+    {
+      "heading": "Kenapa harus dipisah?",
+      "body": "Kalau sampah organik dicampur dengan sampah anorganik, proses penguraiannya jadi lebih sulit dan bisa mencemari sampah lain yang sebenarnya masih bisa didaur ulang. Dipisah sejak dari rumah, sampah organik bisa diolah jadi **kompos** yang menyuburkan tanah."
+    },
+    {
+      "heading": "Reduce, Reuse, Recycle untuk organik",
+      "body": "*Reduce*: ambil makanan secukupnya supaya tidak bersisa. *Reuse*: sisa sayur bisa jadi kaldu. *Recycle*: olah jadi kompos atau pakan maggot (larva BSF) yang ramah lingkungan."
+    }
+  ],
+  "imageAssets": []
+}

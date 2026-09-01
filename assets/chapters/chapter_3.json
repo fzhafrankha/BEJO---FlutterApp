@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "title": "Mengenal Sampah B3",
+  "sections": [
+    {
+      "heading": "Apa itu sampah B3?",
+      "body": "B3 adalah singkatan dari **Bahan Berbahaya dan Beracun**. Sampah B3 rumah tangga bisa mencemari tanah dan air kalau dibuang sembarangan, dan berbahaya kalau bersentuhan langsung dengan kulit atau tertelan."
+    },
+    {
+      "heading": "Contoh sehari-hari",
+      "body": "- Baterai bekas\n- Lampu neon/LED bekas\n- Obat kadaluarsa\n- Kemasan pestisida/cairan pembersih\n- Elektronik rusak (HP, charger)"
+    },
+    {
+      "heading": "Kenapa harus dipisah?",
+      "body": "Sampah B3 **tidak boleh** dicampur dengan sampah organik/anorganik biasa karena zat kimianya bisa bocor dan mencemari tanah, air tanah, bahkan sampah lain di sekitarnya. Butuh penanganan khusus di fasilitas pengolahan limbah B3."
+    },
+    {
+      "heading": "Cara aman menangani sampah B3",
+      "body": "Kumpulkan di wadah terpisah dan tertutup, jangan dibakar, jangan dibuang ke saluran air. Cari dropbox/bank sampah B3 di sekitarmu — beberapa minimarket dan kantor kelurahan sudah menyediakan titik pengumpulan baterai dan elektronik bekas."
+    }
+  ],
+  "imageAssets": []
+}

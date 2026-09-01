@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "title": "Mengenal Sampah Anorganik",
+  "sections": [
+    {
+      "heading": "Apa itu sampah anorganik?",
+      "body": "Sampah anorganik adalah sampah yang **sulit atau tidak bisa terurai** secara alami, biasanya berasal dari bahan olahan pabrik seperti plastik, kaca, logam, dan kertas."
+    },
+    {
+      "heading": "Contoh sehari-hari",
+      "body": "- Botol dan gelas plastik\n- Kaleng minuman\n- Kantong plastik\n- Kertas dan kardus bekas\n- Pecahan kaca/beling"
+    },
+    {
+      "heading": "Kenapa harus dipisah?",
+      "body": "Banyak sampah anorganik seperti plastik, kaleng, dan kertas sebenarnya **bisa didaur ulang** menjadi barang baru. Kalau dipisah dari sampah organik/basah, kualitasnya tetap bagus dan lebih mudah diproses bank sampah atau pemulung."
+    },
+    {
+      "heading": "Reduce, Reuse, Recycle untuk anorganik",
+      "body": "*Reduce*: bawa tumbler & tas belanja sendiri, kurangi kemasan sekali pakai. *Reuse*: botol plastik bisa jadi pot tanaman. *Recycle*: setorkan ke bank sampah — kertas, plastik, dan logam punya nilai jual daur ulang."
+    }
+  ],
+  "imageAssets": []
+}
