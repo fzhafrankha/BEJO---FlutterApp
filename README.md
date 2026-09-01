@@ -1,4 +1,4 @@
-# ANFORCOM2026 Tamagotchi Education — Frontend (Flutter)
+# BEJO — Frontend (Flutter)
 
 Aplikasi Android edukasi lingkungan bertema 3R (Reduce, Reuse, Recycle) dibungkus sebagai game tamagotchi gamified, untuk kompetisi ANFORCOM2026. User merawat tamagotchi, scan sampah lewat kamera (klasifikasi on-device via model TFLite) untuk dapat currency, mengerjakan quiz edukasi per-chapter, belanja aksesoris di shop/gacha, baca berita, dan chat dengan chatbot edukasi.
 
